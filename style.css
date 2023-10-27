@@ -1,0 +1,94 @@
+
+
+body {
+background-color: #272A34;
+font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2 {
+  
+  text-align: center;
+   font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+
+  }
+ h1 {
+ 	margin-bottom: 40px;
+ }
+
+p {
+  font-size: 18px;
+
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+a:hover{
+  color: white;
+  text-decoration: underline;
+ }
+
+
+ul{
+
+list-style-type: none;
+padding-left: 0px;
+}
+li{
+	font-size: 18px;
+}
+
+.profile-picture img {
+	width: 55%;
+	height: auto;
+	border-radius: 50%;
+	margin-bottom: 20px;
+}
+.contact h2{
+margin-bottom: 40px;
+}
+
+.container {
+  width: 500px; 
+  margin: 20px auto; 
+ }
+
+.card-white{ 
+
+	background: white;                         
+	padding: 30px;                             
+	border-radius: 5px;                        
+	box-shadow: 0 10px 30px rgba(0,0,0,0.2);    
+	margin: 20px 0px;
+	text-align: center;
+	justify-content: center;
+}
+
+
+.card-white h2{ 
+margin-bottom: 20px;
+}
+.card-white p { 
+margin-bottom: 20px;
+
+}
+.button {
+	background: rgb(38, 38, 51);                         
+	padding: 20px 10px;                             
+	border-radius: 5px;                        
+	  
+	margin: 30px auto;
+	text-align: center;
+	width: 300px;
+}
+
+.linkedin {
+width: 150px;
+height: auto;
+}
+
+
